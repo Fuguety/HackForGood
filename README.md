@@ -1,71 +1,59 @@
 # MiPark
 
-## Acerca del Proyecto
+## About the Project
 
-MiPark es una aplicación revolucionaria que transforma la forma en que gestionamos y utilizamos los espacios de estacionamiento. Permitiendo a los propietarios de garajes alquilar sus espacios no utilizados, MiPark ofrece una solución innovadora para la falta crónica de estacionamiento en zonas urbanas y fomenta un uso más eficiente de los recursos disponibles.
+MiPark is a revolutionary application that transforms the way we manage and utilize parking spaces. By enabling garage owners to rent out their unused spaces, MiPark offers an innovative solution to the chronic lack of parking in urban areas and encourages more efficient use of available resources.
 
-## Beneficios Sociales y Económicos
+## Social and Economic Benefits
 
-- **Para los Propietarios:** Generación de ingresos adicionales alquilando espacios de estacionamiento no utilizados.
-- **Para los Conductores:** Ahorro de tiempo y reducción del estrés asociado a la búsqueda de estacionamiento.
-- **Impacto Ambiental:** Reducción del tráfico en busca de aparcamiento, contribuyendo a la disminución de las emisiones de CO2.
+- **For Owners:** Generate additional income by renting out unused parking spaces.
+- **For Drivers:** Save time and reduce the stress associated with parking search.
+- **Environmental Impact:** Reduce traffic congestion in search of parking, contributing to the decrease in CO2 emissions.
 
-## Tecnologías Utilizadas
+## Technologies Used
 
-- **.NET MAUI:** Framework de Microsoft que permite la creación de aplicaciones multiplataforma para Android e iOS.
-- **OpenStreetMap:** Utilizado para la integración con GPS y la búsqueda de garajes cercanos.
-- **Seguridad:** Implementación de criptografía para las contraseñas de los usuarios.
+- **.NET MAUI:** Microsoft framework that allows the creation of cross-platform applications for Android and iOS.
+- **OpenStreetMap:** Used for GPS integration and searching for nearby garages.
+- **Security:** Implementation of cryptography for user passwords.
 
 ## HackForGood
 
-Desarrollado durante el hackathon HackForGood, el proyecto MiPark aspira a resolver problemas cotidianos de manera inteligente, utilizando tecnología para facilitar la vida de los usuarios y promover prácticas más sostenibles en la gestión de estacionamientos urbanos.
+Developed during the HackForGood hackathon, the MiPark project aims to solve everyday problems intelligently, using technology to make users' lives easier and promote more sustainable practices in urban parking management.
 
-## Cómo Contribuir
+## How to Contribute
 
-¿Interesado en contribuir a MiPark? Aquí hay algunas formas de cómo puedes ayudar:
+Interested in contributing to MiPark? Here are some ways you can help:
 
-1. **Reportar Bugs:** Usa la sección de issues de GitHub para reportar errores.
-2. **Sugerir Mejoras:** ¿Tienes una idea para mejorar MiPark? ¡Compártela con nosotros!
-3. **Desarrollar:** Haz fork del repositorio y crea un Pull Request con tus mejoras.
+1. **Report Bugs:** Use the GitHub issues section to report bugs.
+2. **Suggest Improvements:** Have an idea to improve MiPark? Share it with us!
+3. **Develop:** Fork the repository and create a Pull Request with your enhancements.
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
 
    ```
    https://github.com/phsrdev/HackForGood.git
-2. Asegúrate de tener instalados los siguientes requisitos previos:
-
-- [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)
-- [Visual Studio](https://visualstudio.microsoft.com)
-- [.NET MAUI](https://dotnet.microsoft.com/en-us/apps/maui)
-
-
-## Licencia
-
-MiPark se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
-
-**Herramientas utilizadas**
+2. Make sure you have the following prerequisites installed:
 
 ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![vstudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-<br>
 
+## License
 
+MiPark is distributed under the MIT License. See the `LICENSE` file for more details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-Desarrollado con ❤️ por el equipo de HackForGood.
-
+Developed with ❤️ by the HackForGood team.
 
 _Juan Gorostiza (Designer)_ <br>
 _Andre Martin (Designer)_ <br>
-_Pedro Rodrigues (Programador)_ <br>
-_Lucas Barreiro (Programador)_ <br>
+_Pedro Rodrigues (Programmer)_ <br>
+_Lucas Barreiro (Programmer)_ <br>
+
