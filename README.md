@@ -52,8 +52,9 @@ MiPark is distributed under the MIT License. See the `LICENSE` file for more det
 
 Developed with ❤️ by the HackForGood team.
 
-_Juan Gorostiza (Designer)_ <br>
 _Andre Martin (Designer)_ <br>
-_Pedro Rodrigues (Programador)_ <br>
+_Juan Gorostiza (Designer)_ <br>
 _Lucas Barreiro (Programador)_ <br>
+_Pedro Rodrigues (Programador)_ <br>
+
 
