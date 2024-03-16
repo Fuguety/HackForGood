@@ -54,6 +54,6 @@ Developed with ❤️ by the HackForGood team.
 
 _Juan Gorostiza (Designer)_ <br>
 _Andre Martin (Designer)_ <br>
-_Pedro Rodrigues (Programmer)_ <br>
-_Lucas Barreiro (Programmer)_ <br>
+_Pedro Rodrigues (Programador)_ <br>
+_Lucas Barreiro (Programador)_ <br>
 
